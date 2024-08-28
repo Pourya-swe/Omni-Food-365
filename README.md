@@ -37,7 +37,7 @@ To indicate to some of it I would say that I **learned** and **practice**:
 - The process behind building a website. - Define, Plan, Sketch, Design & Build, Test & Optimize, Launch, Maintain & Update.
 - Responsive Design - its principles, ingredients, mobile-first or desktop-first, and ... -
 
-## Q3: Why did I even learn this things?
+## Q3: Why did I even learn these things?
 
 Well, I always fond of computer science and programming, and to be honest, I want to excel in this realm
 especially in front-end and back-end development, so I have started my journey from here.
