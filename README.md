@@ -1,4 +1,4 @@
-# A professional landing page for a food related start-up with help of HTML, CSS and Pure JavaScript which follows the development and design principle where modern component of an informative and descriptive website striking out.
+# A professional landing page for a food related start-up with help of HTML, CSS and Pure JavaScript which follows the development and design principle.
 
 ## Q1: How did I come up with this project?
 
