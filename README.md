@@ -47,4 +47,4 @@ especially in front-end and back-end development, so I have started my journey f
 pourya.swe@gmail.com\
 [pouryavahedi.com](https://pouryavahedi.com/)
 
-**Note**: Please note that I have been able to bring everything that I learned and practiced in detail here in this document because I think that it stretches out of this context and your tolerance, but you are free and welcome to take look at the project yourself. Also I wrote some comments in the project itself that explains and indicate to some important things that I learned and practiced along the way.
+**Note**: Please note that I have not been able to bring everything that I learned and practiced in detail here in this document because I think that it stretches out of this context and your tolerance, but you are free and welcome to take look at the project yourself. Also I wrote some comments in the project itself that explains and indicate to some important things that I learned and practiced along the way.
