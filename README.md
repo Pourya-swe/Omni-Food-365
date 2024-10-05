@@ -1,10 +1,8 @@
-# A professional landing page for a food related start-up with help of HTML, CSS and JavaScript which follows the development and design principle.
+# Omni-Food-365
 
-## Q1: How did I come up with this project?
+**Introduction:** A professional landing page. for a food related start-up with help of HTML, CSS and JavaScript which follows the development and design principle.
 
-I basically followed along a course online to be able to create this project with the help of the instructor of that course.
-
-## Q2: What did I learn and practice here in this project?
+## Q1: What did I learn and practice here in this project?
 
 To indicate to some of it I would say that I **learned** and **practice**:
 
@@ -37,12 +35,12 @@ To indicate to some of it I would say that I **learned** and **practice**:
 - The process behind building a website. - Define, Plan, Sketch, Design & Build, Test & Optimize, Launch, Maintain & Update.
 - Responsive Design - its principles, ingredients, mobile-first or desktop-first, and ... -
 
-## Q3: Why did I even learn these things?
+## Q2: Why did I even learn these things?
 
 Well, I always fond of computer science and programming, and to be honest, I want to excel in this realm
 especially in front-end and back-end development, so I have started my journey from here.
 
-## Q4: How to connect with me for any inquires related to these stuff?
+## Q3: How to connect with me for any inquires related to these stuff?
 
 pourya.swe@gmail.com\
 [pouryavahedi.com](https://pouryavahedi.com/)
